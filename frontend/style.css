@@ -1,0 +1,12 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+  color: #0d6efd;
+}
+
+.card {
+  border-radius: 1rem;
+  border: none;
+}
